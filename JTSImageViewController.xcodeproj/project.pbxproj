@@ -38,6 +38,7 @@
 		BD6FB1F920E285ED002209FD /* JTSAnimatedGIFUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JTSAnimatedGIFUtility.h; path = Source/JTSAnimatedGIFUtility.h; sourceTree = SOURCE_ROOT; };
 		BD6FB1FA20E285ED002209FD /* JTSAnimatedGIFUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JTSAnimatedGIFUtility.m; path = Source/JTSAnimatedGIFUtility.m; sourceTree = SOURCE_ROOT; };
 		BD6FB1FB20E285ED002209FD /* JTSImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JTSImageViewController.h; path = Source/JTSImageViewController.h; sourceTree = SOURCE_ROOT; };
+		BD6FB20820E28A18002209FD /* JTSImageViewController.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = JTSImageViewController.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		BD6FB1D920E28549002209FD = {
 			isa = PBXGroup;
 			children = (
+				BD6FB20820E28A18002209FD /* JTSImageViewController.podspec */,
 				BD6FB1E520E28549002209FD /* JTSImageViewController */,
 				BD6FB1E420E28549002209FD /* Products */,
 			);
