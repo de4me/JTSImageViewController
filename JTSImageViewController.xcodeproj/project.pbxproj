@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BD6FB1E820E28549002209FD /* JTSImageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BD6FB1E620E28549002209FD /* JTSImageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BD6FB1FC20E285ED002209FD /* UIImage+JTSImageEffects.h in Headers */ = {isa = PBXBuildFile; fileRef = BD6FB1F020E285EC002209FD /* UIImage+JTSImageEffects.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BD6FB1FD20E285ED002209FD /* JTSSimpleImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = BD6FB1F120E285EC002209FD /* JTSSimpleImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BD6FB1FE20E285ED002209FD /* JTSImageInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = BD6FB1F220E285EC002209FD /* JTSImageInfo.m */; };
@@ -24,7 +23,6 @@
 
 /* Begin PBXFileReference section */
 		BD6FB1E320E28549002209FD /* JTSImageViewController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JTSImageViewController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD6FB1E620E28549002209FD /* JTSImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JTSImageViewController.h; sourceTree = "<group>"; };
 		BD6FB1E720E28549002209FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD6FB1F020E285EC002209FD /* UIImage+JTSImageEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+JTSImageEffects.h"; path = "Source/UIImage+JTSImageEffects.h"; sourceTree = SOURCE_ROOT; };
 		BD6FB1F120E285EC002209FD /* JTSSimpleImageDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JTSSimpleImageDownloader.h; path = Source/JTSSimpleImageDownloader.h; sourceTree = SOURCE_ROOT; };
@@ -72,7 +70,6 @@
 		BD6FB1E520E28549002209FD /* JTSImageViewController */ = {
 			isa = PBXGroup;
 			children = (
-				BD6FB1E620E28549002209FD /* JTSImageViewController.h */,
 				BD6FB1E720E28549002209FD /* Info.plist */,
 				BD6FB1EF20E285D9002209FD /* Sources */,
 			);
@@ -107,7 +104,6 @@
 			files = (
 				BD6FB20420E285ED002209FD /* JTSImageInfo.h in Headers */,
 				BD6FB20020E285ED002209FD /* UIApplication+JTSImageViewController.h in Headers */,
-				BD6FB1E820E28549002209FD /* JTSImageViewController.h in Headers */,
 				BD6FB20720E285ED002209FD /* JTSImageViewController.h in Headers */,
 				BD6FB1FD20E285ED002209FD /* JTSSimpleImageDownloader.h in Headers */,
 				BD6FB1FC20E285ED002209FD /* UIImage+JTSImageEffects.h in Headers */,
